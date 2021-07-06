@@ -1,5 +1,5 @@
 # **4DFoot**
-This is a repository for the paper "4D-Foot: A fully automated pipeline of four-dimensional analysis of the foot bones using bi-plane x-ray video and CT" accepted by MICCAI 2021
+This is a repository for the paper "4D-Foot: A fully automated pipeline of four-dimensional analysis of the foot bones using bi-plane x-ray video and CT" accepted by MICCAI 2021. This repository depends on https://github.com/YoshitoOtake/RegTools.
 
 ## Introduction
 
